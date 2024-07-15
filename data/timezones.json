@@ -1,0 +1,3394 @@
+[
+  {
+    "id": 1,
+    "tzCode": "Pacific/Midway",
+    "area": "Midway",
+    "gmt": "(GMT-11:00)",
+    "utc": "-11:00",
+    "dst": null
+  },
+  {
+    "id": 2,
+    "tzCode": "Pacific/Niue",
+    "area": "Alofi",
+    "gmt": "(GMT-11:00)",
+    "utc": "-11:00",
+    "dst": null
+  },
+  {
+    "id": 3,
+    "tzCode": "Pacific/Pago_Pago",
+    "area": "Pago Pago, Tāfuna, Ta`ū, Taulaga",
+    "gmt": "(GMT-11:00)",
+    "utc": "-11:00",
+    "dst": null
+  },
+  {
+    "id": 4,
+    "tzCode": "America/Adak",
+    "area": "Adak",
+    "gmt": "(GMT-10:00)",
+    "utc": "-10:00",
+    "dst": null
+  },
+  {
+    "id": 5,
+    "tzCode": "Pacific/Honolulu",
+    "area": "Honolulu, East Honolulu, Pearl City, Hilo, Kailua",
+    "gmt": "(GMT-10:00)",
+    "utc": "-10:00",
+    "dst": null
+  },
+  {
+    "id": 6,
+    "tzCode": "Pacific/Rarotonga",
+    "area": "Avarua",
+    "gmt": "(GMT-10:00)",
+    "utc": "-10:00",
+    "dst": null
+  },
+  {
+    "id": 7,
+    "tzCode": "Pacific/Tahiti",
+    "area": "Faaa, Papeete, Punaauia, Pirae, Mahina",
+    "gmt": "(GMT-10:00)",
+    "utc": "-10:00",
+    "dst": null
+  },
+  {
+    "id": 8,
+    "tzCode": "Pacific/Marquesas",
+    "area": "Taiohae",
+    "gmt": "(GMT-09:30)",
+    "utc": "-09:30",
+    "dst": null
+  },
+  {
+    "id": 9,
+    "tzCode": "America/Anchorage",
+    "area": "Anchorage, Fairbanks, Eagle River, Badger, Knik-Fairview",
+    "gmt": "(GMT-09:00)",
+    "utc": "-09:00",
+    "dst": null
+  },
+  {
+    "id": 10,
+    "tzCode": "America/Juneau",
+    "area": "Juneau",
+    "gmt": "(GMT-09:00)",
+    "utc": "-09:00",
+    "dst": null
+  },
+  {
+    "id": 11,
+    "tzCode": "America/Metlakatla",
+    "area": "Metlakatla",
+    "gmt": "(GMT-09:00)",
+    "utc": "-09:00",
+    "dst": null
+  },
+  {
+    "id": 12,
+    "tzCode": "America/Nome",
+    "area": "Nome",
+    "gmt": "(GMT-09:00)",
+    "utc": "-09:00",
+    "dst": null
+  },
+  {
+    "id": 13,
+    "tzCode": "America/Sitka",
+    "area": "Sitka, Ketchikan",
+    "gmt": "(GMT-09:00)",
+    "utc": "-09:00",
+    "dst": null
+  },
+  {
+    "id": 14,
+    "tzCode": "America/Yakutat",
+    "area": "Yakutat",
+    "gmt": "(GMT-09:00)",
+    "utc": "-09:00",
+    "dst": null
+  },
+  {
+    "id": 15,
+    "tzCode": "Pacific/Gambier",
+    "area": "Gambier",
+    "gmt": "(GMT-09:00)",
+    "utc": "-09:00",
+    "dst": null
+  },
+  {
+    "id": 16,
+    "tzCode": "America/Los_Angeles",
+    "area": "Los Angeles, San Diego, San Jose, San Francisco, Seattle",
+    "gmt": "(GMT-08:00)",
+    "utc": "-08:00",
+    "dst": null
+  },
+  {
+    "id": 17,
+    "tzCode": "America/Tijuana",
+    "area": "Tijuana, Mexicali, Ensenada, Rosarito, Tecate",
+    "gmt": "(GMT-08:00)",
+    "utc": "-08:00",
+    "dst": null
+  },
+  {
+    "id": 18,
+    "tzCode": "America/Vancouver",
+    "area": "Vancouver, Surrey, Okanagan, Victoria, Burnaby",
+    "gmt": "(GMT-08:00)",
+    "utc": "-08:00",
+    "dst": null
+  },
+  {
+    "id": 19,
+    "tzCode": "Pacific/Pitcairn",
+    "area": "Adamstown",
+    "gmt": "(GMT-08:00)",
+    "utc": "-08:00",
+    "dst": null
+  },
+  {
+    "id": 20,
+    "tzCode": "America/Boise",
+    "area": "Boise, Meridian, Nampa, Idaho Falls, Pocatello",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 21,
+    "tzCode": "America/Cambridge_Bay",
+    "area": "Cambridge Bay",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 22,
+    "tzCode": "America/Chihuahua",
+    "area": "Chihuahua, Ciudad Delicias, Cuauhtémoc, Parral, Nuevo Casas Grandes",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 23,
+    "tzCode": "America/Creston",
+    "area": "Creston",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 24,
+    "tzCode": "America/Dawson",
+    "area": "Dawson",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 25,
+    "tzCode": "America/Dawson_Creek",
+    "area": "Fort St. John, Dawson Creek",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 26,
+    "tzCode": "America/Denver",
+    "area": "Denver, El Paso, Albuquerque, Colorado Springs, Aurora",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 27,
+    "tzCode": "America/Edmonton",
+    "area": "Calgary, Edmonton, Fort McMurray, Red Deer, Lethbridge",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 28,
+    "tzCode": "America/Fort_Nelson",
+    "area": "Fort Nelson",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 29,
+    "tzCode": "America/Hermosillo",
+    "area": "Hermosillo, Ciudad Obregón, Nogales, San Luis Río Colorado, Navojoa",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 30,
+    "tzCode": "America/Inuvik",
+    "area": "Inuvik",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 31,
+    "tzCode": "America/Mazatlan",
+    "area": "Culiacán, Mazatlán, Tepic, Los Mochis, La Paz",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 32,
+    "tzCode": "America/Ojinaga",
+    "area": "Ciudad Juárez, Manuel Ojinaga, Ojinaga",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 33,
+    "tzCode": "America/Phoenix",
+    "area": "Phoenix, Tucson, Mesa, Chandler, Gilbert",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 34,
+    "tzCode": "America/Whitehorse",
+    "area": "Whitehorse",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 35,
+    "tzCode": "America/Yellowknife",
+    "area": "Yellowknife",
+    "gmt": "(GMT-07:00)",
+    "utc": "-07:00",
+    "dst": null
+  },
+  {
+    "id": 36,
+    "tzCode": "America/Bahia_Banderas",
+    "area": "Mezcales, San Vicente, Bucerías, Valle de Banderas",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 37,
+    "tzCode": "America/Belize",
+    "area": "Belize City, San Ignacio, Orange Walk, Belmopan, Dangriga",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 38,
+    "tzCode": "America/Chicago",
+    "area": "Chicago, Houston, San Antonio, Dallas, Austin",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 39,
+    "tzCode": "America/Costa_Rica",
+    "area": "San José, Limón, San Francisco, Alajuela, Liberia",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 40,
+    "tzCode": "America/El_Salvador",
+    "area": "San Salvador, Soyapango, Santa Ana, San Miguel, Mejicanos",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 41,
+    "tzCode": "America/Guatemala",
+    "area": "Guatemala City, Mixco, Villa Nueva, Petapa, San Juan Sacatepéquez",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 42,
+    "tzCode": "America/Indiana/Knox",
+    "area": "Knox",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 43,
+    "tzCode": "America/Indiana/Tell_City",
+    "area": "Tell City",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 44,
+    "tzCode": "America/Managua",
+    "area": "Managua, León, Masaya, Chinandega, Matagalpa",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 45,
+    "tzCode": "America/Matamoros",
+    "area": "Reynosa, Heroica Matamoros, Nuevo Laredo, Piedras Negras, Ciudad Acuña",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 46,
+    "tzCode": "America/Menominee",
+    "area": "Menominee, Iron Mountain, Kingsford, Ironwood, Iron River",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 47,
+    "tzCode": "America/Merida",
+    "area": "Mérida, Campeche, Ciudad del Carmen, Kanasín, Valladolid",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 48,
+    "tzCode": "America/Mexico_City",
+    "area": "Mexico City, Iztapalapa, Ecatepec de Morelos, Guadalajara, Puebla",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 49,
+    "tzCode": "America/Monterrey",
+    "area": "Monterrey, Saltillo, Guadalupe, Torreón, Victoria de Durango",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 50,
+    "tzCode": "America/North_Dakota/Beulah",
+    "area": "Beulah",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 51,
+    "tzCode": "America/North_Dakota/Center",
+    "area": "Center",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 52,
+    "tzCode": "America/North_Dakota/New_Salem",
+    "area": "Mandan",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 53,
+    "tzCode": "America/Rainy_River",
+    "area": "Rainy River",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 54,
+    "tzCode": "America/Rankin_Inlet",
+    "area": "Rankin Inlet",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 55,
+    "tzCode": "America/Regina",
+    "area": "Saskatoon, Regina, Prince Albert, Moose Jaw, North Battleford",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 56,
+    "tzCode": "America/Resolute",
+    "area": "Resolute",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 57,
+    "tzCode": "America/Swift_Current",
+    "area": "Swift Current",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 58,
+    "tzCode": "America/Tegucigalpa",
+    "area": "Tegucigalpa, San Pedro Sula, Choloma, La Ceiba, El Progreso",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 59,
+    "tzCode": "America/Winnipeg",
+    "area": "Winnipeg, Brandon, Kenora, Portage la Prairie, Thompson",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 60,
+    "tzCode": "Pacific/Easter",
+    "area": "Easter",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 61,
+    "tzCode": "Pacific/Galapagos",
+    "area": "Puerto Ayora, Puerto Baquerizo Moreno",
+    "gmt": "(GMT-06:00)",
+    "utc": "-06:00",
+    "dst": null
+  },
+  {
+    "id": 62,
+    "tzCode": "America/Atikokan",
+    "area": "Atikokan",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 63,
+    "tzCode": "America/Bogota",
+    "area": "Bogotá, Cali, Medellín, Barranquilla, Cartagena",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 64,
+    "tzCode": "America/Cancun",
+    "area": "Cancún, Chetumal, Playa del Carmen, Cozumel, Felipe Carrillo Puerto",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 65,
+    "tzCode": "America/Cayman",
+    "area": "George Town, West Bay, Bodden Town, East End, North Side",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 66,
+    "tzCode": "America/Detroit",
+    "area": "Detroit, Grand Rapids, Warren, Sterling Heights, Ann Arbor",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 67,
+    "tzCode": "America/Eirunepe",
+    "area": "Eirunepé, Benjamin Constant, Envira",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 68,
+    "tzCode": "America/Grand_Turk",
+    "area": "Cockburn Town",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 69,
+    "tzCode": "America/Guayaquil",
+    "area": "Guayaquil, Quito, Cuenca, Santo Domingo de los Colorados, Machala",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 70,
+    "tzCode": "America/Havana",
+    "area": "Havana, Santiago de Cuba, Camagüey, Holguín, Guantánamo",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 71,
+    "tzCode": "America/Indiana/Indianapolis",
+    "area": "Indianapolis, Fort Wayne, South Bend, Carmel, Bloomington",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 72,
+    "tzCode": "America/Indiana/Marengo",
+    "area": "Marengo",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 73,
+    "tzCode": "America/Indiana/Petersburg",
+    "area": "Petersburg",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 74,
+    "tzCode": "America/Indiana/Vevay",
+    "area": "Vevay",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 75,
+    "tzCode": "America/Indiana/Vincennes",
+    "area": "Vincennes, Jasper, Washington, Huntingburg",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 76,
+    "tzCode": "America/Indiana/Winamac",
+    "area": "Winamac",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 77,
+    "tzCode": "America/Iqaluit",
+    "area": "Iqaluit",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 78,
+    "tzCode": "America/Jamaica",
+    "area": "Kingston, New Kingston, Spanish Town, Portmore, Montego Bay",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 79,
+    "tzCode": "America/Kentucky/Louisville",
+    "area": "Louisville, Jeffersonville, New Albany, Jeffersontown, Pleasure Ridge Park",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 80,
+    "tzCode": "America/Kentucky/Monticello",
+    "area": "Monticello",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 81,
+    "tzCode": "America/Lima",
+    "area": "Lima, Arequipa, Callao, Trujillo, Chiclayo",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 82,
+    "tzCode": "America/Nassau",
+    "area": "Nassau, Lucaya, Freeport, West End, Cooper’s Town",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 83,
+    "tzCode": "America/New_York",
+    "area": "New York City, Brooklyn, Queens, Philadelphia, Manhattan",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 84,
+    "tzCode": "America/Nipigon",
+    "area": "Nipigon",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 85,
+    "tzCode": "America/Panama",
+    "area": "Panamá, San Miguelito, Juan Díaz, David, Arraiján",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 86,
+    "tzCode": "America/Pangnirtung",
+    "area": "Pangnirtung",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 87,
+    "tzCode": "America/Port-au-Prince",
+    "area": "Port-au-Prince, Carrefour, Delmas 73, Pétionville, Port-de-Paix",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 88,
+    "tzCode": "America/Rio_Branco",
+    "area": "Rio Branco, Cruzeiro do Sul, Sena Madureira, Tarauacá, Feijó",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 89,
+    "tzCode": "America/Thunder_Bay",
+    "area": "Thunder Bay",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 90,
+    "tzCode": "America/Toronto",
+    "area": "Toronto, Montréal, Ottawa, Mississauga, Québec",
+    "gmt": "(GMT-05:00)",
+    "utc": "-05:00",
+    "dst": null
+  },
+  {
+    "id": 91,
+    "tzCode": "America/Anguilla",
+    "area": "The Valley, Blowing Point Village, Sandy Ground Village, The Quarter, Sandy Hill",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 92,
+    "tzCode": "America/Antigua",
+    "area": "Saint John’s, Piggotts, Bolands, Codrington, Parham",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 93,
+    "tzCode": "America/Aruba",
+    "area": "Oranjestad, Tanki Leendert, San Nicolas, Santa Cruz, Paradera",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 94,
+    "tzCode": "America/Asuncion",
+    "area": "Asunción, Ciudad del Este, San Lorenzo, Capiatá, Lambaré",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 95,
+    "tzCode": "America/Barbados",
+    "area": "Bridgetown, Speightstown, Oistins, Bathsheba, Holetown",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 96,
+    "tzCode": "America/Blanc-Sablon",
+    "area": "Lévis",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 97,
+    "tzCode": "America/Boa_Vista",
+    "area": "Boa Vista",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 98,
+    "tzCode": "America/Campo_Grande",
+    "area": "Campo Grande, Dourados, Corumbá, Três Lagoas, Ponta Porã",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 99,
+    "tzCode": "America/Caracas",
+    "area": "Caracas, Maracaibo, Maracay, Valencia, Barquisimeto",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 100,
+    "tzCode": "America/Cuiaba",
+    "area": "Cuiabá, Várzea Grande, Rondonópolis, Sinop, Barra do Garças",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 101,
+    "tzCode": "America/Curacao",
+    "area": "Willemstad, Sint Michiel Liber",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 102,
+    "tzCode": "America/Dominica",
+    "area": "Roseau, Portsmouth, Berekua, Saint Joseph, Wesley",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 103,
+    "tzCode": "America/Glace_Bay",
+    "area": "Sydney, Glace Bay, Sydney Mines",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 104,
+    "tzCode": "America/Goose_Bay",
+    "area": "Labrador City, Happy Valley-Goose Bay",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 105,
+    "tzCode": "America/Grenada",
+    "area": "Saint George's, Gouyave, Grenville, Victoria, Saint David’s",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 106,
+    "tzCode": "America/Guadeloupe",
+    "area": "Les Abymes, Baie-Mahault, Le Gosier, Petit-Bourg, Sainte-Anne",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 107,
+    "tzCode": "America/Guyana",
+    "area": "Georgetown, Linden, New Amsterdam, Anna Regina, Bartica",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 108,
+    "tzCode": "America/Halifax",
+    "area": "Halifax, Dartmouth, Charlottetown, Lower Sackville, Truro",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 109,
+    "tzCode": "America/Kralendijk",
+    "area": "Kralendijk, Oranjestad, The Bottom",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 110,
+    "tzCode": "America/La_Paz",
+    "area": "Santa Cruz de la Sierra, Cochabamba, La Paz, Sucre, Oruro",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 111,
+    "tzCode": "America/Lower_Princes",
+    "area": "Cul de Sac, Lower Prince’s Quarter, Koolbaai, Philipsburg",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 112,
+    "tzCode": "America/Manaus",
+    "area": "Manaus, Itacoatiara, Parintins, Manacapuru, Coari",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 113,
+    "tzCode": "America/Marigot",
+    "area": "Marigot",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 114,
+    "tzCode": "America/Martinique",
+    "area": "Fort-de-France, Le Lamentin, Le Robert, Sainte-Marie, Le François",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 115,
+    "tzCode": "America/Moncton",
+    "area": "Moncton, Saint John, Fredericton, Dieppe, Miramichi",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 116,
+    "tzCode": "America/Montserrat",
+    "area": "Brades, Saint Peters, Plymouth",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 117,
+    "tzCode": "America/Porto_Velho",
+    "area": "Porto Velho, Ji Paraná, Vilhena, Ariquemes, Cacoal",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 118,
+    "tzCode": "America/Port_of_Spain",
+    "area": "Chaguanas, Mon Repos, San Fernando, Port of Spain, Rio Claro",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 119,
+    "tzCode": "America/Puerto_Rico",
+    "area": "San Juan, Bayamón, Carolina, Ponce, Caguas",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 120,
+    "tzCode": "America/Santiago",
+    "area": "Santiago, Puente Alto, Antofagasta, Viña del Mar, Valparaíso",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 121,
+    "tzCode": "America/Santo_Domingo",
+    "area": "Santo Domingo, Santiago de los Caballeros, Santo Domingo Oeste, Santo Domingo Este, San Pedro de Macorís",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 122,
+    "tzCode": "America/St_Barthelemy",
+    "area": "Gustavia",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 123,
+    "tzCode": "America/St_Kitts",
+    "area": "Basseterre, Fig Tree, Market Shop, Saint Paul’s, Middle Island",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 124,
+    "tzCode": "America/St_Lucia",
+    "area": "Castries, Bisee, Vieux Fort, Micoud, Soufrière",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 125,
+    "tzCode": "America/St_Thomas",
+    "area": "Saint Croix, Charlotte Amalie, Cruz Bay",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 126,
+    "tzCode": "America/St_Vincent",
+    "area": "Kingstown, Kingstown Park, Georgetown, Barrouallie, Port Elizabeth",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 127,
+    "tzCode": "America/Thule",
+    "area": "Thule",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 128,
+    "tzCode": "America/Tortola",
+    "area": "Road Town",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 129,
+    "tzCode": "Atlantic/Bermuda",
+    "area": "Hamilton",
+    "gmt": "(GMT-04:00)",
+    "utc": "-04:00",
+    "dst": null
+  },
+  {
+    "id": 130,
+    "tzCode": "America/St_Johns",
+    "area": "St. John's, Mount Pearl, Corner Brook, Conception Bay South, Bay Roberts",
+    "gmt": "(GMT-03:30)",
+    "utc": "-03:30",
+    "dst": null
+  },
+  {
+    "id": 131,
+    "tzCode": "America/Araguaina",
+    "area": "Palmas, Araguaína, Gurupi, Miracema do Tocantins, Porto Franco",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 132,
+    "tzCode": "America/Argentina/Buenos_Aires",
+    "area": "Buenos Aires, La Plata, Mar del Plata, Morón, Bahía Blanca",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 133,
+    "tzCode": "America/Argentina/Catamarca",
+    "area": "San Fernando del Valle de Catamarca, Trelew, Puerto Madryn, Esquel, Rawson",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 134,
+    "tzCode": "America/Argentina/Cordoba",
+    "area": "Córdoba, Rosario, Santa Fe, Resistencia, Santiago del Estero",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 135,
+    "tzCode": "America/Argentina/Jujuy",
+    "area": "San Salvador de Jujuy, San Pedro de Jujuy, Libertador General San Martín, Palpalá, La Quiaca",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 136,
+    "tzCode": "America/Argentina/La_Rioja",
+    "area": "La Rioja, Chilecito, Arauco, Chamical",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 137,
+    "tzCode": "America/Argentina/Mendoza",
+    "area": "Mendoza, San Rafael, San Martín",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 138,
+    "tzCode": "America/Argentina/Rio_Gallegos",
+    "area": "Comodoro Rivadavia, Río Gallegos, Caleta Olivia, Pico Truncado, Puerto Deseado",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 139,
+    "tzCode": "America/Argentina/Salta",
+    "area": "Salta, Neuquén, Santa Rosa, San Carlos de Bariloche, Cipolletti",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 140,
+    "tzCode": "America/Argentina/San_Juan",
+    "area": "San Juan, Chimbas, Santa Lucía, Pocito, Caucete",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 141,
+    "tzCode": "America/Argentina/San_Luis",
+    "area": "San Luis, Villa Mercedes, La Punta, Merlo, Justo Daract",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 142,
+    "tzCode": "America/Argentina/Tucuman",
+    "area": "San Miguel de Tucumán, Yerba Buena, Tafí Viejo, Alderetes, Aguilares",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 143,
+    "tzCode": "America/Argentina/Ushuaia",
+    "area": "Ushuaia, Río Grande",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 144,
+    "tzCode": "America/Bahia",
+    "area": "Salvador, Feira de Santana, Vitória da Conquista, Itabuna, Camaçari",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 145,
+    "tzCode": "America/Belem",
+    "area": "Belém, Ananindeua, Macapá, Parauapebas, Marabá",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 146,
+    "tzCode": "America/Cayenne",
+    "area": "Cayenne, Matoury, Saint-Laurent-du-Maroni, Kourou, Rémire-Montjoly",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 147,
+    "tzCode": "America/Fortaleza",
+    "area": "Fortaleza, São Luís, Natal, Teresina, João Pessoa",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 148,
+    "tzCode": "America/Godthab",
+    "area": "Nuuk, Sisimiut, Ilulissat, Qaqortoq, Aasiaat",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 149,
+    "tzCode": "America/Maceio",
+    "area": "Maceió, Aracaju, Arapiraca, Nossa Senhora do Socorro, São Cristóvão",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 150,
+    "tzCode": "America/Miquelon",
+    "area": "Saint-Pierre, Miquelon",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 151,
+    "tzCode": "America/Montevideo",
+    "area": "Montevideo, Salto, Paysandú, Las Piedras, Rivera",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 152,
+    "tzCode": "America/Paramaribo",
+    "area": "Paramaribo, Lelydorp, Brokopondo, Nieuw Nickerie, Moengo",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 153,
+    "tzCode": "America/Punta_Arenas",
+    "area": "Punta Arenas, Puerto Natales",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 154,
+    "tzCode": "America/Recife",
+    "area": "Recife, Jaboatão, Jaboatão dos Guararapes, Olinda, Paulista",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 155,
+    "tzCode": "America/Santarem",
+    "area": "Santarém, Altamira, Itaituba, Oriximiná, Alenquer",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 156,
+    "tzCode": "America/Sao_Paulo",
+    "area": "São Paulo, Rio de Janeiro, Belo Horizonte, Brasília, Curitiba",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 157,
+    "tzCode": "Antarctica/Palmer",
+    "area": "Palmer",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 158,
+    "tzCode": "Antarctica/Rothera",
+    "area": "Rothera",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 159,
+    "tzCode": "Atlantic/Stanley",
+    "area": "Stanley",
+    "gmt": "(GMT-03:00)",
+    "utc": "-03:00",
+    "dst": null
+  },
+  {
+    "id": 160,
+    "tzCode": "America/Noronha",
+    "area": "Itamaracá",
+    "gmt": "(GMT-02:00)",
+    "utc": "-02:00",
+    "dst": null
+  },
+  {
+    "id": 161,
+    "tzCode": "Atlantic/South_Georgia",
+    "area": "Grytviken",
+    "gmt": "(GMT-02:00)",
+    "utc": "-02:00",
+    "dst": null
+  },
+  {
+    "id": 162,
+    "tzCode": "America/Scoresbysund",
+    "area": "Scoresbysund",
+    "gmt": "(GMT-01:00)",
+    "utc": "-01:00",
+    "dst": null
+  },
+  {
+    "id": 163,
+    "tzCode": "Atlantic/Azores",
+    "area": "Ponta Delgada, Lagoa, Angra do Heroísmo, Rosto de Cão, Rabo de Peixe",
+    "gmt": "(GMT-01:00)",
+    "utc": "-01:00",
+    "dst": null
+  },
+  {
+    "id": 164,
+    "tzCode": "Atlantic/Cape_Verde",
+    "area": "Praia, Mindelo, Santa Maria, Cova Figueira, Santa Cruz",
+    "gmt": "(GMT-01:00)",
+    "utc": "-01:00",
+    "dst": null
+  },
+  {
+    "id": 165,
+    "tzCode": "Africa/Abidjan",
+    "area": "Abidjan, Abobo, Bouaké, Daloa, San-Pédro",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 166,
+    "tzCode": "Africa/Accra",
+    "area": "Accra, Kumasi, Tamale, Takoradi, Atsiaman",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 167,
+    "tzCode": "Africa/Bamako",
+    "area": "Bamako, Sikasso, Mopti, Koutiala, Ségou",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 168,
+    "tzCode": "Africa/Banjul",
+    "area": "Serekunda, Brikama, Bakau, Banjul, Farafenni",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 169,
+    "tzCode": "Africa/Bissau",
+    "area": "Bissau, Bafatá, Gabú, Bissorã, Bolama",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 170,
+    "tzCode": "Africa/Casablanca",
+    "area": "Casablanca, Rabat, Fès, Sale, Marrakesh",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 171,
+    "tzCode": "Africa/Conakry",
+    "area": "Camayenne, Conakry, Nzérékoré, Kindia, Kankan",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 172,
+    "tzCode": "Africa/Dakar",
+    "area": "Dakar, Pikine, Touba, Thiès, Thiès Nones",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 173,
+    "tzCode": "Africa/El_Aaiun",
+    "area": "Laayoune, Dakhla, Laayoune Plage",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 174,
+    "tzCode": "Africa/Freetown",
+    "area": "Freetown, Bo, Kenema, Koidu, Makeni",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 175,
+    "tzCode": "Africa/Lome",
+    "area": "Lomé, Sokodé, Kara, Atakpamé, Kpalimé",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 176,
+    "tzCode": "Africa/Monrovia",
+    "area": "Monrovia, Gbarnga, Kakata, Bensonville, Harper",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 177,
+    "tzCode": "Africa/Nouakchott",
+    "area": "Nouakchott, Nouadhibou, Néma, Kaédi, Rosso",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 178,
+    "tzCode": "Africa/Ouagadougou",
+    "area": "Ouagadougou, Bobo-Dioulasso, Koudougou, Ouahigouya, Banfora",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 179,
+    "tzCode": "Africa/Sao_Tome",
+    "area": "São Tomé, Santo António",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 180,
+    "tzCode": "America/Danmarkshavn",
+    "area": "Danmarkshavn",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 181,
+    "tzCode": "Antarctica/Troll",
+    "area": "Troll",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 182,
+    "tzCode": "Atlantic/Canary",
+    "area": "Las Palmas de Gran Canaria, Santa Cruz de Tenerife, La Laguna, Telde, Arona",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 183,
+    "tzCode": "Atlantic/Faroe",
+    "area": "Tórshavn, Klaksvík, Fuglafjørður, Tvøroyri, Miðvágur",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 184,
+    "tzCode": "Atlantic/Madeira",
+    "area": "Funchal, Câmara de Lobos, São Martinho, Caniço, Machico",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 185,
+    "tzCode": "Atlantic/Reykjavik",
+    "area": "Reykjavík, Kópavogur, Hafnarfjörður, Akureyri, Garðabær",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 186,
+    "tzCode": "Atlantic/St_Helena",
+    "area": "Jamestown, Georgetown, Edinburgh of the Seven Seas",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 187,
+    "tzCode": "Europe/Dublin",
+    "area": "Dublin, Cork, Luimneach, Gaillimh, Tallaght",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 188,
+    "tzCode": "Europe/Guernsey",
+    "area": "Saint Peter Port, St Martin, Saint Sampson, St Anne, Saint Saviour",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 189,
+    "tzCode": "Europe/Isle_of_Man",
+    "area": "Douglas, Ramsey, Peel, Port Erin, Castletown",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 190,
+    "tzCode": "Europe/Jersey",
+    "area": "Saint Helier, Le Hocq",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 191,
+    "tzCode": "Europe/Lisbon",
+    "area": "Lisbon, Porto, Amadora, Braga, Setúbal",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 192,
+    "tzCode": "Europe/London",
+    "area": "London, Birmingham, Liverpool, Sheffield, Bristol",
+    "gmt": "(GMT+00:00)",
+    "utc": "+00:00",
+    "dst": null
+  },
+  {
+    "id": 193,
+    "tzCode": "Africa/Algiers",
+    "area": "Algiers, Boumerdas, Oran, Tébessa, Constantine",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 194,
+    "tzCode": "Africa/Bangui",
+    "area": "Bangui, Bimbo, Mbaïki, Berbérati, Kaga Bandoro",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 195,
+    "tzCode": "Africa/Brazzaville",
+    "area": "Brazzaville, Pointe-Noire, Dolisie, Kayes, Owando",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 196,
+    "tzCode": "Africa/Ceuta",
+    "area": "Ceuta, Melilla",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 197,
+    "tzCode": "Africa/Douala",
+    "area": "Douala, Yaoundé, Garoua, Kousséri, Bamenda",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 198,
+    "tzCode": "Africa/Kinshasa",
+    "area": "Kinshasa, Masina, Kikwit, Mbandaka, Matadi",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 199,
+    "tzCode": "Africa/Lagos",
+    "area": "Lagos, Kano, Ibadan, Kaduna, Port Harcourt",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 200,
+    "tzCode": "Africa/Libreville",
+    "area": "Libreville, Port-Gentil, Franceville, Oyem, Moanda",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 201,
+    "tzCode": "Africa/Luanda",
+    "area": "Luanda, N’dalatando, Huambo, Lobito, Benguela",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 202,
+    "tzCode": "Africa/Malabo",
+    "area": "Bata, Malabo, Ebebiyin, Aconibe, Añisoc",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 203,
+    "tzCode": "Africa/Ndjamena",
+    "area": "N'Djamena, Moundou, Sarh, Abéché, Kelo",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 204,
+    "tzCode": "Africa/Niamey",
+    "area": "Niamey, Zinder, Maradi, Agadez, Alaghsas",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 205,
+    "tzCode": "Africa/Porto-Novo",
+    "area": "Cotonou, Abomey-Calavi, Djougou, Porto-Novo, Parakou",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 206,
+    "tzCode": "Africa/Tunis",
+    "area": "Tunis, Sfax, Sousse, Kairouan, Bizerte",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 207,
+    "tzCode": "Africa/Windhoek",
+    "area": "Windhoek, Rundu, Walvis Bay, Oshakati, Swakopmund",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 208,
+    "tzCode": "Arctic/Longyearbyen",
+    "area": "Longyearbyen, Olonkinbyen",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 209,
+    "tzCode": "Europe/Amsterdam",
+    "area": "Amsterdam, Rotterdam, The Hague, Utrecht, Eindhoven",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 210,
+    "tzCode": "Europe/Andorra",
+    "area": "Andorra la Vella, les Escaldes, Encamp, Sant Julià de Lòria, la Massana",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 211,
+    "tzCode": "Europe/Belgrade",
+    "area": "Belgrade, Pristina, Niš, Novi Sad, Prizren",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 212,
+    "tzCode": "Europe/Berlin",
+    "area": "Berlin, Hamburg, Munich, Köln, Frankfurt am Main",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 213,
+    "tzCode": "Europe/Bratislava",
+    "area": "Bratislava, Košice, Prešov, Nitra, Žilina",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 214,
+    "tzCode": "Europe/Brussels",
+    "area": "Brussels, Antwerpen, Gent, Charleroi, Liège",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 215,
+    "tzCode": "Europe/Budapest",
+    "area": "Budapest, Debrecen, Miskolc, Szeged, Pécs",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 216,
+    "tzCode": "Europe/Copenhagen",
+    "area": "Copenhagen, Århus, Odense, Aalborg, Frederiksberg",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 217,
+    "tzCode": "Europe/Gibraltar",
+    "area": "Gibraltar",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 218,
+    "tzCode": "Europe/Ljubljana",
+    "area": "Ljubljana, Maribor, Celje, Kranj, Velenje",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 219,
+    "tzCode": "Europe/Luxembourg",
+    "area": "Luxembourg, Esch-sur-Alzette, Dudelange, Schifflange, Bettembourg",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 220,
+    "tzCode": "Europe/Madrid",
+    "area": "Madrid, Barcelona, Valencia, Sevilla, Zaragoza",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 221,
+    "tzCode": "Europe/Malta",
+    "area": "Birkirkara, Qormi, Mosta, Żabbar, San Pawl il-Baħar",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 222,
+    "tzCode": "Europe/Monaco",
+    "area": "Monaco, Monte-Carlo, La Condamine",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 223,
+    "tzCode": "Europe/Oslo",
+    "area": "Oslo, Bergen, Trondheim, Stavanger, Drammen",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 224,
+    "tzCode": "Europe/Paris",
+    "area": "Paris, Marseille, Lyon, Toulouse, Nice",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 225,
+    "tzCode": "Europe/Podgorica",
+    "area": "Podgorica, Nikšić, Herceg Novi, Pljevlja, Budva",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 226,
+    "tzCode": "Europe/Prague",
+    "area": "Prague, Brno, Ostrava, Pilsen, Olomouc",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 227,
+    "tzCode": "Europe/Rome",
+    "area": "Rome, Milan, Naples, Turin, Palermo",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 228,
+    "tzCode": "Europe/San_Marino",
+    "area": "Serravalle, Borgo Maggiore, San Marino, Domagnano, Fiorentino",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 229,
+    "tzCode": "Europe/Sarajevo",
+    "area": "Sarajevo, Banja Luka, Zenica, Tuzla, Mostar",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 230,
+    "tzCode": "Europe/Skopje",
+    "area": "Skopje, Bitola, Kumanovo, Prilep, Tetovo",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 231,
+    "tzCode": "Europe/Stockholm",
+    "area": "Stockholm, Göteborg, Malmö, Uppsala, Sollentuna",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 232,
+    "tzCode": "Europe/Tirane",
+    "area": "Tirana, Durrës, Elbasan, Vlorë, Shkodër",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 233,
+    "tzCode": "Europe/Vaduz",
+    "area": "Schaan, Vaduz, Triesen, Balzers, Eschen",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 234,
+    "tzCode": "Europe/Vatican",
+    "area": "Vatican City",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 235,
+    "tzCode": "Europe/Vienna",
+    "area": "Vienna, Graz, Linz, Favoriten, Donaustadt",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 236,
+    "tzCode": "Europe/Warsaw",
+    "area": "Warsaw, Łódź, Kraków, Wrocław, Poznań",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 237,
+    "tzCode": "Europe/Zagreb",
+    "area": "Zagreb, Split, Rijeka, Osijek, Zadar",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 238,
+    "tzCode": "Europe/Zurich",
+    "area": "Zürich, Genève, Basel, Lausanne, Bern",
+    "gmt": "(GMT+01:00)",
+    "utc": "+01:00",
+    "dst": null
+  },
+  {
+    "id": 239,
+    "tzCode": "Africa/Blantyre",
+    "area": "Lilongwe, Blantyre, Mzuzu, Zomba, Kasungu",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 240,
+    "tzCode": "Africa/Bujumbura",
+    "area": "Bujumbura, Muyinga, Gitega, Ruyigi, Ngozi",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 241,
+    "tzCode": "Africa/Cairo",
+    "area": "Cairo, Alexandria, Giza, Port Said, Suez",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 242,
+    "tzCode": "Africa/Gaborone",
+    "area": "Gaborone, Francistown, Molepolole, Selebi-Phikwe, Maun",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 243,
+    "tzCode": "Africa/Harare",
+    "area": "Harare, Bulawayo, Chitungwiza, Mutare, Gweru",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 244,
+    "tzCode": "Africa/Johannesburg",
+    "area": "Cape Town, Durban, Johannesburg, Soweto, Pretoria",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 245,
+    "tzCode": "Africa/Juba",
+    "area": "Juba, Winejok, Malakal, Wau, Kuacjok",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 246,
+    "tzCode": "Africa/Khartoum",
+    "area": "Khartoum, Omdurman, Nyala, Port Sudan, Kassala",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 247,
+    "tzCode": "Africa/Kigali",
+    "area": "Kigali, Butare, Gitarama, Musanze, Gisenyi",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 248,
+    "tzCode": "Africa/Lubumbashi",
+    "area": "Lubumbashi, Mbuji-Mayi, Kisangani, Kananga, Likasi",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 249,
+    "tzCode": "Africa/Lusaka",
+    "area": "Lusaka, Kitwe, Ndola, Kabwe, Chingola",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 250,
+    "tzCode": "Africa/Maputo",
+    "area": "Maputo, Matola, Beira, Nampula, Chimoio",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 251,
+    "tzCode": "Africa/Maseru",
+    "area": "Maseru, Mafeteng, Leribe, Maputsoe, Mohale’s Hoek",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 252,
+    "tzCode": "Africa/Mbabane",
+    "area": "Manzini, Mbabane, Big Bend, Malkerns, Nhlangano",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 253,
+    "tzCode": "Africa/Tripoli",
+    "area": "Tripoli, Benghazi, Mişrātah, Tarhuna, Al Khums",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 254,
+    "tzCode": "Asia/Amman",
+    "area": "Amman, Zarqa, Irbid, Russeifa, Wādī as Sīr",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 255,
+    "tzCode": "Asia/Beirut",
+    "area": "Beirut, Ra’s Bayrūt, Tripoli, Sidon, Tyre",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 256,
+    "tzCode": "Asia/Damascus",
+    "area": "Aleppo, Damascus, Homs, Ḩamāh, Latakia",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 257,
+    "tzCode": "Asia/Famagusta",
+    "area": "Famagusta, Kyrenia, Protaras, Paralímni, Lápithos",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 258,
+    "tzCode": "Asia/Gaza",
+    "area": "Gaza, Khān Yūnis, Jabālyā, Rafaḩ, Dayr al Balaḩ",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 259,
+    "tzCode": "Asia/Hebron",
+    "area": "East Jerusalem, Hebron, Nablus, Battir, Ţūlkarm",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 260,
+    "tzCode": "Asia/Jerusalem",
+    "area": "Jerusalem, Tel Aviv, West Jerusalem, Haifa, Ashdod",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 261,
+    "tzCode": "Asia/Nicosia",
+    "area": "Nicosia, Limassol, Larnaca, Stróvolos, Paphos",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 262,
+    "tzCode": "Europe/Athens",
+    "area": "Athens, Thessaloníki, Pátra, Piraeus, Lárisa",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 263,
+    "tzCode": "Europe/Bucharest",
+    "area": "Bucharest, Sector 3, Sector 6, Sector 2, Iaşi",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 264,
+    "tzCode": "Europe/Chisinau",
+    "area": "Chisinau, Tiraspol, Bălţi, Bender, Rîbniţa",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 265,
+    "tzCode": "Europe/Helsinki",
+    "area": "Helsinki, Espoo, Tampere, Vantaa, Turku",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 266,
+    "tzCode": "Europe/Kaliningrad",
+    "area": "Kaliningrad, Chernyakhovsk, Sovetsk, Baltiysk, Gusev",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 267,
+    "tzCode": "Europe/Kyiv",
+    "area": "Kyiv, Kharkiv, Donetsk, Odesa, Dnipro",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 268,
+    "tzCode": "Europe/Mariehamn",
+    "area": "Mariehamn",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 269,
+    "tzCode": "Europe/Riga",
+    "area": "Riga, Daugavpils, Liepāja, Jelgava, Jūrmala",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 270,
+    "tzCode": "Europe/Sofia",
+    "area": "Sofia, Plovdiv, Varna, Burgas, Ruse",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 271,
+    "tzCode": "Europe/Tallinn",
+    "area": "Tallinn, Tartu, Narva, Kohtla-Järve, Pärnu",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 272,
+    "tzCode": "Europe/Uzhgorod",
+    "area": "Uzhgorod, Mukachevo, Khust, Berehove, Tyachiv",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 273,
+    "tzCode": "Europe/Vilnius",
+    "area": "Vilnius, Kaunas, Klaipėda, Šiauliai, Panevėžys",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 274,
+    "tzCode": "Europe/Zaporizhzhia",
+    "area": "Luhansk, Sevastopol, Sievierodonetsk, Alchevsk, Lysychansk",
+    "gmt": "(GMT+02:00)",
+    "utc": "+02:00",
+    "dst": null
+  },
+  {
+    "id": 275,
+    "tzCode": "Africa/Addis_Ababa",
+    "area": "Addis Ababa, Dire Dawa, Mek'ele, Nazrēt, Bahir Dar",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 276,
+    "tzCode": "Africa/Asmara",
+    "area": "Asmara, Keren, Massawa, Assab, Mendefera",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 277,
+    "tzCode": "Africa/Dar_es_Salaam",
+    "area": "Dar es Salaam, Mwanza, Zanzibar, Arusha, Mbeya",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 278,
+    "tzCode": "Africa/Djibouti",
+    "area": "Djibouti, 'Ali Sabieh, Tadjourah, Obock, Dikhil",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 279,
+    "tzCode": "Africa/Kampala",
+    "area": "Kampala, Gulu, Lira, Mbarara, Jinja",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 280,
+    "tzCode": "Africa/Mogadishu",
+    "area": "Mogadishu, Hargeysa, Berbera, Kismayo, Marka",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 281,
+    "tzCode": "Africa/Nairobi",
+    "area": "Nairobi, Mombasa, Nakuru, Eldoret, Kisumu",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 282,
+    "tzCode": "Antarctica/Syowa",
+    "area": "Syowa",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 283,
+    "tzCode": "Asia/Aden",
+    "area": "Sanaa, Al Ḩudaydah, Taiz, Aden, Mukalla",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 284,
+    "tzCode": "Asia/Baghdad",
+    "area": "Baghdad, Basrah, Al Mawşil al Jadīdah, Al Başrah al Qadīmah, Mosul",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 285,
+    "tzCode": "Asia/Bahrain",
+    "area": "Manama, Al Muharraq, Ar Rifā‘, Dār Kulayb, Madīnat Ḩamad",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 286,
+    "tzCode": "Asia/Kuwait",
+    "area": "Al Aḩmadī, Ḩawallī, As Sālimīyah, Şabāḩ as Sālim, Al Farwānīyah",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 287,
+    "tzCode": "Asia/Qatar",
+    "area": "Doha, Ar Rayyān, Umm Şalāl Muḩammad, Al Wakrah, Al Khawr",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 288,
+    "tzCode": "Asia/Riyadh",
+    "area": "Riyadh, Jeddah, Mecca, Medina, Sulţānah",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 289,
+    "tzCode": "Europe/Istanbul",
+    "area": "Istanbul, Ankara, İzmir, Bursa, Adana",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 290,
+    "tzCode": "Europe/Kirov",
+    "area": "Kirov, Kirovo-Chepetsk, Vyatskiye Polyany, Slobodskoy, Kotel’nich",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 291,
+    "tzCode": "Europe/Minsk",
+    "area": "Minsk, Homyel', Mahilyow, Vitebsk, Hrodna",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 292,
+    "tzCode": "Europe/Moscow",
+    "area": "Moscow, Saint Petersburg, Nizhniy Novgorod, Kazan, Rostov-na-Donu",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 293,
+    "tzCode": "Europe/Simferopol",
+    "area": "Simferopol, Kerch, Yevpatoriya, Yalta, Feodosiya",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 294,
+    "tzCode": "Europe/Volgograd",
+    "area": "Volgograd, Volzhskiy, Kamyshin, Mikhaylovka, Uryupinsk",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 295,
+    "tzCode": "Indian/Antananarivo",
+    "area": "Antananarivo, Toamasina, Antsirabe, Fianarantsoa, Mahajanga",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 296,
+    "tzCode": "Indian/Comoro",
+    "area": "Moroni, Moutsamoudou, Fomboni, Domoni, Tsimbeo",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 297,
+    "tzCode": "Indian/Mayotte",
+    "area": "Mamoudzou, Koungou, Dzaoudzi, Dembeni, Sada",
+    "gmt": "(GMT+03:00)",
+    "utc": "+03:00",
+    "dst": null
+  },
+  {
+    "id": 298,
+    "tzCode": "Asia/Tehran",
+    "area": "Tehran, Mashhad, Isfahan, Karaj, Tabriz",
+    "gmt": "(GMT+03:30)",
+    "utc": "+03:30",
+    "dst": null
+  },
+  {
+    "id": 299,
+    "tzCode": "Asia/Baku",
+    "area": "Baku, Ganja, Sumqayıt, Lankaran, Yevlakh",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 300,
+    "tzCode": "Asia/Dubai",
+    "area": "Dubai, Sharjah, Abu Dhabi, Ajman City, Ras Al Khaimah City",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 301,
+    "tzCode": "Asia/Muscat",
+    "area": "Muscat, Seeb, Şalālah, Bawshar, Sohar",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 302,
+    "tzCode": "Asia/Tbilisi",
+    "area": "Tbilisi, Kutaisi, Batumi, Sokhumi, Zugdidi",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 303,
+    "tzCode": "Asia/Yerevan",
+    "area": "Yerevan, Gyumri, Vanadzor, Vagharshapat, Hrazdan",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 304,
+    "tzCode": "Europe/Astrakhan",
+    "area": "Astrakhan, Akhtubinsk, Znamensk, Kharabali, Kamyzyak",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 305,
+    "tzCode": "Europe/Samara",
+    "area": "Samara, Togliatti-on-the-Volga, Izhevsk, Syzran’, Novokuybyshevsk",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 306,
+    "tzCode": "Europe/Saratov",
+    "area": "Saratov, Balakovo, Engel’s, Balashov, Vol’sk",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 307,
+    "tzCode": "Europe/Ulyanovsk",
+    "area": "Ulyanovsk, Dimitrovgrad, Inza, Barysh, Novoul’yanovsk",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 308,
+    "tzCode": "Indian/Mahe",
+    "area": "Victoria, Anse Boileau, Bel Ombre, Beau Vallon, Cascade",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 309,
+    "tzCode": "Indian/Mauritius",
+    "area": "Port Louis, Beau Bassin-Rose Hill, Vacoas, Curepipe, Quatre Bornes",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 310,
+    "tzCode": "Indian/Reunion",
+    "area": "Saint-Denis, Saint-Paul, Saint-Pierre, Le Tampon, Saint-André",
+    "gmt": "(GMT+04:00)",
+    "utc": "+04:00",
+    "dst": null
+  },
+  {
+    "id": 311,
+    "tzCode": "Asia/Kabul",
+    "area": "Kabul, Kandahār, Mazār-e Sharīf, Herāt, Jalālābād",
+    "gmt": "(GMT+04:30)",
+    "utc": "+04:30",
+    "dst": null
+  },
+  {
+    "id": 312,
+    "tzCode": "Antarctica/Mawson",
+    "area": "Mawson",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 313,
+    "tzCode": "Asia/Aqtau",
+    "area": "Shevchenko, Zhanaozen, Beyneu, Shetpe, Yeraliyev",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 314,
+    "tzCode": "Asia/Aqtobe",
+    "area": "Aktobe, Kandyagash, Shalqar, Khromtau, Embi",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 315,
+    "tzCode": "Asia/Ashgabat",
+    "area": "Ashgabat, Türkmenabat, Daşoguz, Mary, Balkanabat",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 316,
+    "tzCode": "Asia/Atyrau",
+    "area": "Atyrau, Qulsary, Shalkar, Balykshi, Maqat",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 317,
+    "tzCode": "Asia/Dushanbe",
+    "area": "Dushanbe, Khujand, Kŭlob, Bokhtar, Istaravshan",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 318,
+    "tzCode": "Asia/Karachi",
+    "area": "Karachi, Lahore, Faisalabad, Rawalpindi, Multan",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 319,
+    "tzCode": "Asia/Oral",
+    "area": "Oral, Aqsay, Zhänibek, Tasqala, Zhumysker",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 320,
+    "tzCode": "Asia/Qyzylorda",
+    "area": "Kyzylorda, Baikonur, Novokazalinsk, Aral, Chiili",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 321,
+    "tzCode": "Asia/Samarkand",
+    "area": "Samarkand, Bukhara, Nukus, Qarshi, Jizzax",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 322,
+    "tzCode": "Asia/Tashkent",
+    "area": "Tashkent, Namangan, Andijon, Qo‘qon, Chirchiq",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 323,
+    "tzCode": "Asia/Yekaterinburg",
+    "area": "Yekaterinburg, Chelyabinsk, Ufa, Perm, Orenburg",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 324,
+    "tzCode": "Indian/Kerguelen",
+    "area": "Port-aux-Français",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 325,
+    "tzCode": "Indian/Maldives",
+    "area": "Male, Fuvahmulah, Hithadhoo, Kulhudhuffushi, Thinadhoo",
+    "gmt": "(GMT+05:00)",
+    "utc": "+05:00",
+    "dst": null
+  },
+  {
+    "id": 326,
+    "tzCode": "Asia/Colombo",
+    "area": "Colombo, Dehiwala-Mount Lavinia, Moratuwa, Jaffna, Negombo",
+    "gmt": "(GMT+05:30)",
+    "utc": "+05:30",
+    "dst": null
+  },
+  {
+    "id": 327,
+    "tzCode": "Asia/Kolkata",
+    "area": "Mumbai, Delhi, Bengaluru, Kolkata, Chennai",
+    "gmt": "(GMT+05:30)",
+    "utc": "+05:30",
+    "dst": null
+  },
+  {
+    "id": 328,
+    "tzCode": "Asia/Kathmandu",
+    "area": "Kathmandu, Pokhara, Pātan, Biratnagar, Birgañj",
+    "gmt": "(GMT+05:45)",
+    "utc": "+05:45",
+    "dst": null
+  },
+  {
+    "id": 329,
+    "tzCode": "Antarctica/Vostok",
+    "area": "Vostok",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 330,
+    "tzCode": "Asia/Almaty",
+    "area": "Almaty, Karagandy, Shymkent, Taraz, Nur-Sultan",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 331,
+    "tzCode": "Asia/Bishkek",
+    "area": "Bishkek, Osh, Jalal-Abad, Karakol, Tokmok",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 332,
+    "tzCode": "Asia/Dhaka",
+    "area": "Dhaka, Chattogram, Khulna, Rājshāhi, Comilla",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 333,
+    "tzCode": "Asia/Omsk",
+    "area": "Omsk, Tara, Kalachinsk, Znamenskoye, Tavricheskoye",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 334,
+    "tzCode": "Asia/Qostanay",
+    "area": "Kostanay, Rudnyy, Dzhetygara, Arkalyk, Lisakovsk",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 335,
+    "tzCode": "Asia/Thimphu",
+    "area": "himphu, Punākha, Tsirang, Phuntsholing, Pemagatshel",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 336,
+    "tzCode": "Asia/Urumqi",
+    "area": "Zhongshan, Ürümqi, Zhanjiang, Shihezi, Huocheng",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 337,
+    "tzCode": "Indian/Chagos",
+    "area": "British Indian Ocean Territory",
+    "gmt": "(GMT+06:00)",
+    "utc": "+06:00",
+    "dst": null
+  },
+  {
+    "id": 338,
+    "tzCode": "Asia/Yangon",
+    "area": "Yangon, Mandalay, Nay Pyi Taw, Mawlamyine, Kyain Seikgyi Township",
+    "gmt": "(GMT+06:30)",
+    "utc": "+06:30",
+    "dst": null
+  },
+  {
+    "id": 339,
+    "tzCode": "Indian/Cocos",
+    "area": "West Island",
+    "gmt": "(GMT+06:30)",
+    "utc": "+06:30",
+    "dst": null
+  },
+  {
+    "id": 340,
+    "tzCode": "Antarctica/Davis",
+    "area": "Davis",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 341,
+    "tzCode": "Asia/Bangkok",
+    "area": "Bangkok, Hanoi, Haiphong, Samut Prakan, Mueang Nonthaburi",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 342,
+    "tzCode": "Asia/Barnaul",
+    "area": "Barnaul, Biysk, Rubtsovsk, Novoaltaysk, Gorno-Altaysk",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 343,
+    "tzCode": "Asia/Hovd",
+    "area": "Khovd, Ölgii, Ulaangom, Uliastay, Altai",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 344,
+    "tzCode": "Asia/Ho_Chi_Minh",
+    "area": "Ho Chi Minh City, Da Nang, Biên Hòa, Nha Trang, Cần Thơ",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 345,
+    "tzCode": "Asia/Jakarta",
+    "area": "Jakarta, Surabaya, Medan, Bandung, Bekasi",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 346,
+    "tzCode": "Asia/Krasnoyarsk",
+    "area": "Krasnoyarsk, Abakan, Norilsk, Achinsk, Kyzyl",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 347,
+    "tzCode": "Asia/Novokuznetsk",
+    "area": "Novokuznetsk, Kemerovo, Prokop’yevsk, Leninsk-Kuznetsky, Kiselëvsk",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 348,
+    "tzCode": "Asia/Novosibirsk",
+    "area": "Novosibirsk, Berdsk, Iskitim, Akademgorodok, Kuybyshev",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 349,
+    "tzCode": "Asia/Phnom_Penh",
+    "area": "Phnom Penh, Takeo, Sihanoukville, Battambang, Siem Reap",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 350,
+    "tzCode": "Asia/Pontianak",
+    "area": "Pontianak, Tanjung Pinang, Palangkaraya, Singkawang, Sampit",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 351,
+    "tzCode": "Asia/Tomsk",
+    "area": "Tomsk, Seversk, Strezhevoy, Kolpashevo, Asino",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 352,
+    "tzCode": "Asia/Vientiane",
+    "area": "Vientiane, Pakse, Thakhèk, Savannakhet, Luang Prabang",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 353,
+    "tzCode": "Indian/Christmas",
+    "area": "Flying Fish Cove",
+    "gmt": "(GMT+07:00)",
+    "utc": "+07:00",
+    "dst": null
+  },
+  {
+    "id": 354,
+    "tzCode": "Asia/Brunei",
+    "area": "Bandar Seri Begawan, Kuala Belait, Seria, Tutong, Bangar",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 355,
+    "tzCode": "Asia/Choibalsan",
+    "area": "Baruun-Urt, Choibalsan",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 356,
+    "tzCode": "Asia/Hong_Kong",
+    "area": "Hong Kong, Kowloon, Tsuen Wan, Yuen Long Kau Hui, Tung Chung",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 357,
+    "tzCode": "Asia/Irkutsk",
+    "area": "Irkutsk, Ulan-Ude, Bratsk, Angarsk, Ust’-Ilimsk",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 358,
+    "tzCode": "Asia/Kuala_Lumpur",
+    "area": "Kota Bharu, Kuala Lumpur, Klang, Kampung Baru Subang, Johor Bahru",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 359,
+    "tzCode": "Asia/Kuching",
+    "area": "Kuching, Kota Kinabalu, Sandakan, Tawau, Miri",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 360,
+    "tzCode": "Asia/Macau",
+    "area": "Macau",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 361,
+    "tzCode": "Asia/Makassar",
+    "area": "Makassar, Denpasar, City of Balikpapan, Banjarmasin, Manado",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 362,
+    "tzCode": "Asia/Manila",
+    "area": "Quezon City, Manila, Caloocan City, Budta, Davao",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 363,
+    "tzCode": "Asia/Shanghai",
+    "area": "Shanghai, Beijing, Tianjin, Guangzhou, Shenzhen",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 364,
+    "tzCode": "Asia/Singapore",
+    "area": "Singapore, Woodlands",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 365,
+    "tzCode": "Asia/Taipei",
+    "area": "Taipei, Kaohsiung, Taichung, Tainan, Banqiao",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 366,
+    "tzCode": "Asia/Ulaanbaatar",
+    "area": "Ulan Bator, Erdenet, Darhan, Hovd, Mörön",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 367,
+    "tzCode": "Australia/Perth",
+    "area": "Perth, Rockingham, Mandurah, Bunbury, Albany",
+    "gmt": "(GMT+08:00)",
+    "utc": "+08:00",
+    "dst": null
+  },
+  {
+    "id": 368,
+    "tzCode": "Australia/Eucla",
+    "area": "Eucla",
+    "gmt": "(GMT+08:45)",
+    "utc": "+08:45",
+    "dst": null
+  },
+  {
+    "id": 369,
+    "tzCode": "Asia/Chita",
+    "area": "Chita, Krasnokamensk, Borzya, Petrovsk-Zabaykal’skiy, Aginskoye",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 370,
+    "tzCode": "Asia/Dili",
+    "area": "Dili, Maliana, Suai, Likisá, Aileu",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 371,
+    "tzCode": "Asia/Jayapura",
+    "area": "Ambon, Jayapura, Sorong, Ternate, Abepura",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 372,
+    "tzCode": "Asia/Khandyga",
+    "area": "Khandyga",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 373,
+    "tzCode": "Asia/Pyongyang",
+    "area": "Pyongyang, Hamhŭng, Namp’o, Sunch’ŏn, Hŭngnam",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 374,
+    "tzCode": "Asia/Seoul",
+    "area": "Seoul, Busan, Incheon, Daegu, Daejeon",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 375,
+    "tzCode": "Asia/Tokyo",
+    "area": "Tokyo, Yokohama, Osaka, Nagoya, Sapporo",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 376,
+    "tzCode": "Asia/Yakutsk",
+    "area": "Yakutsk, Blagoveshchensk, Belogorsk, Neryungri, Svobodnyy",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 377,
+    "tzCode": "Pacific/Palau",
+    "area": "Koror, Koror Town, Kloulklubed, Ulimang, Mengellang",
+    "gmt": "(GMT+09:00)",
+    "utc": "+09:00",
+    "dst": null
+  },
+  {
+    "id": 378,
+    "tzCode": "Australia/Adelaide",
+    "area": "Adelaide, Adelaide Hills, Mount Gambier, Morphett Vale, Gawler",
+    "gmt": "(GMT+09:30)",
+    "utc": "+09:30",
+    "dst": null
+  },
+  {
+    "id": 379,
+    "tzCode": "Australia/Broken_Hill",
+    "area": "Broken Hill",
+    "gmt": "(GMT+09:30)",
+    "utc": "+09:30",
+    "dst": null
+  },
+  {
+    "id": 380,
+    "tzCode": "Australia/Darwin",
+    "area": "Darwin, Alice Springs, Palmerston, Howard Springs",
+    "gmt": "(GMT+09:30)",
+    "utc": "+09:30",
+    "dst": null
+  },
+  {
+    "id": 381,
+    "tzCode": "Antarctica/DumontDUrville",
+    "area": "DumontDUrville",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 382,
+    "tzCode": "Antarctica/Macquarie",
+    "area": "Macquarie",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 383,
+    "tzCode": "Asia/Ust-Nera",
+    "area": "Ust-Nera",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 384,
+    "tzCode": "Asia/Vladivostok",
+    "area": "Vladivostok, Khabarovsk, Khabarovsk Vtoroy, Komsomolsk-on-Amur, Ussuriysk",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 385,
+    "tzCode": "Australia/Brisbane",
+    "area": "Brisbane, Gold Coast, Logan City, Townsville, Cairns",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 386,
+    "tzCode": "Australia/Currie",
+    "area": "Currie",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 387,
+    "tzCode": "Australia/Hobart",
+    "area": "Hobart, Launceston, Burnie, Devonport, Sandy Bay",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 388,
+    "tzCode": "Australia/Lindeman",
+    "area": "Lindeman",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 389,
+    "tzCode": "Australia/Melbourne",
+    "area": "Melbourne, Geelong, Bendigo, Ballarat, Melbourne City Centre",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 390,
+    "tzCode": "Australia/Sydney",
+    "area": "Sydney, Canberra, Newcastle, Wollongong, Maitland",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 391,
+    "tzCode": "Pacific/Chuuk",
+    "area": "Weno, Colonia",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 392,
+    "tzCode": "Pacific/Guam",
+    "area": "Dededo Village, Yigo Village, Tamuning, Tamuning-Tumon-Harmon Village, Mangilao Village",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 393,
+    "tzCode": "Pacific/Port_Moresby",
+    "area": "Port Moresby, Lae, Mount Hagen, Popondetta, Madang",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 394,
+    "tzCode": "Pacific/Saipan",
+    "area": "Saipan, San Jose Village",
+    "gmt": "(GMT+10:00)",
+    "utc": "+10:00",
+    "dst": null
+  },
+  {
+    "id": 395,
+    "tzCode": "Australia/Lord_Howe",
+    "area": "Lord Howe",
+    "gmt": "(GMT+10:30)",
+    "utc": "+10:30",
+    "dst": null
+  },
+  {
+    "id": 396,
+    "tzCode": "Antarctica/Casey",
+    "area": "Casey",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 397,
+    "tzCode": "Asia/Magadan",
+    "area": "Magadan, Ust-Nera, Susuman, Ola",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 398,
+    "tzCode": "Asia/Sakhalin",
+    "area": "Yuzhno-Sakhalinsk, Korsakov, Kholmsk, Okha, Nevel’sk",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 399,
+    "tzCode": "Asia/Srednekolymsk",
+    "area": "Srednekolymsk",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 400,
+    "tzCode": "Pacific/Bougainville",
+    "area": "Arawa, Buka",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 401,
+    "tzCode": "Pacific/Efate",
+    "area": "Port-Vila, Luganville, Isangel, Sola, Lakatoro",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 402,
+    "tzCode": "Pacific/Guadalcanal",
+    "area": "Honiara, Malango, Auki, Gizo, Buala",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 403,
+    "tzCode": "Pacific/Kosrae",
+    "area": "Tofol",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 404,
+    "tzCode": "Pacific/Norfolk",
+    "area": "Kingston",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 405,
+    "tzCode": "Pacific/Noumea",
+    "area": "Nouméa, Mont-Dore, Dumbéa, Païta, Wé",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 406,
+    "tzCode": "Pacific/Pohnpei",
+    "area": "Kolonia, Kolonia Town, Palikir - National Government Center",
+    "gmt": "(GMT+11:00)",
+    "utc": "+11:00",
+    "dst": null
+  },
+  {
+    "id": 407,
+    "tzCode": "Antarctica/McMurdo",
+    "area": "McMurdo",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 408,
+    "tzCode": "Asia/Anadyr",
+    "area": "Anadyr, Bilibino",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 409,
+    "tzCode": "Asia/Kamchatka",
+    "area": "Petropavlovsk-Kamchatsky, Yelizovo, Vilyuchinsk, Klyuchi, Mil’kovo",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 410,
+    "tzCode": "Pacific/Auckland",
+    "area": "Auckland, Wellington, Christchurch, Manukau City, North Shore",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 411,
+    "tzCode": "Pacific/Fiji",
+    "area": "Suva, Lautoka, Nadi, Labasa, Ba",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 412,
+    "tzCode": "Pacific/Funafuti",
+    "area": "Funafuti, Savave Village, Tanrake Village, Toga Village, Asau Village",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 413,
+    "tzCode": "Pacific/Kwajalein",
+    "area": "Ebaye, Jabat",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 414,
+    "tzCode": "Pacific/Majuro",
+    "area": "Majuro, Arno, Jabor, Wotje, Mili",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 415,
+    "tzCode": "Pacific/Nauru",
+    "area": "Yaren, Baiti, Anabar, Uaboe, Ijuw",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 416,
+    "tzCode": "Pacific/Tarawa",
+    "area": "Tarawa, Betio Village, Bikenibeu Village",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 417,
+    "tzCode": "Pacific/Wake",
+    "area": "Wake",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 418,
+    "tzCode": "Pacific/Wallis",
+    "area": "Mata-Utu, Leava, Alo",
+    "gmt": "(GMT+12:00)",
+    "utc": "+12:00",
+    "dst": null
+  },
+  {
+    "id": 419,
+    "tzCode": "Pacific/Chatham",
+    "area": "Waitangi",
+    "gmt": "(GMT+12:45)",
+    "utc": "+12:45",
+    "dst": null
+  },
+  {
+    "id": 420,
+    "tzCode": "Pacific/Apia",
+    "area": "Apia, Asau, Mulifanua, Afega, Leulumoega",
+    "gmt": "(GMT+13:00)",
+    "utc": "+13:00",
+    "dst": null
+  },
+  {
+    "id": 421,
+    "tzCode": "Pacific/Enderbury",
+    "area": "Enderbury",
+    "gmt": "(GMT+13:00)",
+    "utc": "+13:00",
+    "dst": null
+  },
+  {
+    "id": 422,
+    "tzCode": "Pacific/Fakaofo",
+    "area": "Atafu Village, Nukunonu, Fale old settlement",
+    "gmt": "(GMT+13:00)",
+    "utc": "+13:00",
+    "dst": null
+  },
+  {
+    "id": 423,
+    "tzCode": "Pacific/Tongatapu",
+    "area": "Nuku‘alofa, Lapaha, Neiafu, Pangai, ‘Ohonua",
+    "gmt": "(GMT+13:00)",
+    "utc": "+13:00",
+    "dst": null
+  },
+  {
+    "id": 424,
+    "tzCode": "Pacific/Kiritimati",
+    "area": "Kiritimati",
+    "gmt": "(GMT+14:00)",
+    "utc": "+14:00",
+    "dst": null
+  }
+]
